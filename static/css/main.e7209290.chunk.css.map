@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACI,MACI,qBAAuB,CACvB,YAAa,CACb,YAAa,CACb,4BAA6B,CAC7B,WACJ","file":"main.e7209290.chunk.css","sourcesContent":["\n    .card {\n        border: 1px solid black;\n        padding: 10px;\n        display: flex;\n        justify-content: space-around;\n        margin: 10px;\n    }"]}
